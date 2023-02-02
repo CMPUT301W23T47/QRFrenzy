@@ -1,2 +1,5 @@
-package com.cmput301w23t47.qrfrenzy.models;public class Trapezium {
+package com.cmput301w23t47.qrfrenzy.models;
+
+public class Trapezium extends Shape{
+
 }
